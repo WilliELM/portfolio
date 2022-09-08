@@ -1,0 +1,21 @@
+
+.flexbox{
+    display: flex;
+    color: black ;
+    justify-content: space-around;
+    align-content: space-around;
+}
+.flexboxitem {
+    width: 200px;
+    margin: 10px;
+    border: 2px solid blue;
+    background-color: lightblue;
+}
+.flexboxitem1{
+    min-height: 75px;
+    
+}
+
+.flexboxitem2{
+     min-height: 75px;
+}
